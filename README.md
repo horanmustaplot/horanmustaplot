@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started: -->
 
-![image](https://github.com/horanmustaplot/horanmustaplot/assets/152083466/d6e1f423-46b3-43e8-9198-3930853e267a)
+![juju](https://github.com/horanmustaplot/horanmustaplot/assets/152083466/6a3af67f-fc46-47e9-bc49-32a53267ff40)
