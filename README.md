@@ -5,9 +5,5 @@
 
 Here are some ideas to get you started: -->
 
-![juju](https://github.com/horanmustaplot/horanmustaplot/assets/152083466/6a3af67f-fc46-47e9-bc49-32a53267ff40)
-
-
-https://github.com/horanmustaplot/horanmustaplot/assets/152083466/a6b72e46-dc89-4c6f-9d7c-dd6cd67e9f2e
-
+![umero](https://github.com/horanmustaplot/horanmustaplot/assets/152083466/7fe2dfb1-41c4-4df2-98d7-488b199895c5)
 
