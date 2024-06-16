@@ -1,4 +1,4 @@
-"Intelligence is the ability to avoid doing work, yet getting the work done." -Linus Torvalds 
+"I have no special talent. I am only passionately curious." - Albert Einstein
 
 # $ cat whoami
 
