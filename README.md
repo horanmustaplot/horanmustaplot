@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horanmustaplot&repo=xnvim&theme=github_dark)](https://github.com/horanmustaplot/xnvim) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=horanmustaplot&repo=xnvim&theme=github_dark)](https://github.com/horanmustaplot/xcarbon)
 
