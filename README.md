@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=github_dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 "I have no special talent. I am only passionately curious." - Albert Einstein
 
 # $ cat whoami
