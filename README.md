@@ -1,3 +1,5 @@
+[![Horan Mustaplot's GitHub stats](https://github-readme-stats.vercel.app/api?username=horanmustaplot)](https://github.com/horanmustaplot/github-readme-stats)
+
 "I have no special talent. I am only passionately curious." - Albert Einstein
 
 # $ cat whoami
