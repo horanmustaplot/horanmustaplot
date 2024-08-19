@@ -5,3 +5,5 @@
 # $ cat whoami
 
 Unix/Linux enthusiast, terminal aficionado, low-level programming geek, passionate public speaker with a deep love for C/C++.
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
