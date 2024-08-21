@@ -8,10 +8,10 @@
     src="https://lanyard.cnrad.dev/api/1133976190709940345?bg=FFFFFF00&animated=true&idleMessage=Code%20is%20poetry;%20open%20source%20is%20the%20art%20of%20sharing%20it."
     />
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="40%">
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
+  <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="50%">
+</br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%">
