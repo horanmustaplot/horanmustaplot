@@ -15,3 +15,5 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="400">
+
+![eren-mikasa](https://github.com/user-attachments/assets/c3c5f603-7fbf-4c1a-a0d9-32a24186ac96)
