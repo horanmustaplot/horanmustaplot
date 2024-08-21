@@ -1,7 +1,4 @@
-<img
-    align="center"
-    src="https://github.com/user-attachments/assets/0b6f5868-2ffc-4e8d-b391-230e4e6ed17a"
-    />
+<img align="right" src="https://github.com/user-attachments/assets/0b6f5868-2ffc-4e8d-b391-230e4e6ed17a"/>
 
 <img src="/github-metrics.svg" alt="Metrics" width="400" align="right">
 <a href="https://discord.com/users/1133976190709940345">
