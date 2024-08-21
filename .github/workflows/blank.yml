@@ -28,7 +28,7 @@ jobs:
           user: horanmustaplot
           template: classic
           base: header, activity, community, repositories
-          config_timezone: Asia/Taipei
+          config_timezone: Africa/Casablanca
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -48,4 +48,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
