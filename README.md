@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 "I have no special talent. I am only passionately curious." - Albert Einstein
 
 ```bash
