@@ -2,7 +2,7 @@
 <img src="/github-metrics.svg" alt="Metrics" width="50%" align="right">
 <a href="https://discord.com/users/1133976190709940345">
   <img
-    width="40%"
+    width="auto"
     height="195"
     align="left"
     src="https://lanyard.cnrad.dev/api/1133976190709940345?bg=FFFFFF00&animated=true&idleMessage=Code%20is%20poetry;%20open%20source%20is%20the%20art%20of%20sharing%20it."
