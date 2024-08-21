@@ -12,5 +12,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="400">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="400">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot" alt="Github Stats" style="vertical-align:top" width="400">
 
