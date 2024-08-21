@@ -23,7 +23,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: horanmustaplot
           template: classic
@@ -50,3 +49,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_order: isocalendar, base.header, languages, stars
+          
