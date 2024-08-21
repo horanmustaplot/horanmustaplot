@@ -49,3 +49,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_order: isocalendar, base.header, languages, stars
