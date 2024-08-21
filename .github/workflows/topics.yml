@@ -1,4 +1,4 @@
-- name: Labels
+  name: Labels
   uses: lowlighter/metrics@latest
   with:
     filename: metrics.plugin.topics.svg
@@ -7,7 +7,7 @@
     plugin_topics: yes
     plugin_topics_limit: 12
 
-- name: Icons
+  name: Icons
   uses: lowlighter/metrics@latest
   with:
     filename: metrics.plugin.topics.icons.svg
