@@ -12,5 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="400">
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
