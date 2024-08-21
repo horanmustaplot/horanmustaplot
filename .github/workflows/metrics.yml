@@ -13,14 +13,43 @@ jobs:
       contents: write
     steps:
 
-name: With worldmap
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stargazers.worldmap.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_stargazers: yes
-  plugin_stargazers_charts: no
-  plugin_stargazers_worldmap: yes
-  plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-  plugin_stargazers_worldmap_sample: 200
+    name: With worldmap
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.stargazers.worldmap.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      base: ""
+      plugin_stargazers: yes
+      plugin_stargazers_charts: no
+      plugin_stargazers_worldmap: yes
+      plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+      plugin_stargazers_worldmap_sample: 200
+
+    name: Half-year calendar
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.isocalendar.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      base: ""
+      plugin_isocalendar: yes
+
+    name: Icons
+    uses: lowlighter/metrics@latest
+      with:
+      filename: metrics.plugin.topics.icons.svg
+      token: NOT_NEEDED
+      base: ""
+      plugin_topics: yes
+      plugin_topics_limit: 0
+      plugin_topics_mode: icons
+
+    name: Recent activity
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.activity.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      base: ""
+      plugin_activity: yes
+      plugin_activity_limit: 5
+      plugin_activity_days: 0
+      plugin_activity_filter: issue, pr, release, fork, review, ref/create
