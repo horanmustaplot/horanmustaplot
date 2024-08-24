@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="40%">
 
 <a href="https://github.com/horanmustaplot">
-  <img height=200 width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
+  <img height=200 width=45% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
 </a>
 </br>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%"> -->
