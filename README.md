@@ -13,4 +13,4 @@
   <img style="vertical-align:top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
 </a>
 </br>
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%"> -->
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%">-->
