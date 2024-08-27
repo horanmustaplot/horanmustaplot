@@ -9,7 +9,6 @@
     />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="40%">
-
 <a href="https://github.com/horanmustaplot">
   <img style="vertical-align:top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=github_dark" />
 </a>
