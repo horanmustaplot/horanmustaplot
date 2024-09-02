@@ -14,6 +14,6 @@
 </a>
 </br>
 
- <img src="https://github.com/user-attachments/assets/2a6e8758-7c4e-4dd4-a751-e5160aa8aa07" width=45% height=45 align="right"/>
+ <img src="https://github.com/user-attachments/assets/2a6e8758-7c4e-4dd4-a751-e5160aa8aa07" width=45% height=45% align="left"/>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%">-->
