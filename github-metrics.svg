@@ -1095,12 +1095,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.88748906520385" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="306.88748906520385" y="0" width="107.13166449562416" height="8" fill="#fff3d7"/>
-                    <rect mask="url(#languages-bar)" x="414.01915356082804" y="0" width="20.39414926330989" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="434.41330282413793" y="0" width="13.403978164787855" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="447.8172809889258" y="0" width="7.097360750862368" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="454.9146417397882" y="0" width="5.0853582602118585" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.3222661817187" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="305.3222661817187" y="0" width="108.93140418286643" height="8" fill="#fff3d7"/>
+                    <rect mask="url(#languages-bar)" x="414.2536703645851" y="0" width="20.29013267660126" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.5438030411864" y="0" width="13.335613653034155" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="447.8794166942205" y="0" width="7.061161974908882" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="454.94057866912937" y="0" width="5.059421330870588" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1154,7 +1154,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            263 Commits
+                            264 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1312,6 +1312,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#9f79ab1</div>
+                                        <div class="message">Fix auto folding when getting into insert mode</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">horanmustaplot/fxnvim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#3003ac9</div>
                                         <div class="message">Change few things.</div>
                                     </div>
@@ -1333,26 +1353,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#9a3626e</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">horanmustaplot/gruvheven-waybar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#803b226</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
