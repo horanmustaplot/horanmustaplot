@@ -9,9 +9,9 @@
     src="https://lanyard.cnrad.dev/api/1133976190709940345?bg=FFFFFF00&animated=true&idleMessage=Code%20is%20poetry;%20open%20source%20is%20the%20art%20of%20sharing%20it."
     />
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=horanmustaplot&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="40%">
-<a href="https://github.com/horanmustaplot">
-  <img style="vertical-align:top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=horanmustaplot&layout=compact&langs_count=8&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=aehabdelouadoud&show_icons=true&theme=transparent" alt="Github Stats" style="vertical-align:top" width="40%">
+<a href="https://github.com/aehabdelouadoud">
+  <img style="vertical-align:top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aehabdelouadoud&layout=compact&langs_count=8&theme=transparent" />
 </a>
 </br>
 <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=horanmustaplot&show_icons=true&theme=transparent" alt="Wakatime" style="vertical-align:top" width="40%">-->
