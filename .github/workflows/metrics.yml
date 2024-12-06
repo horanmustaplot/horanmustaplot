@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: nixos-24.05
     permissions:
       contents: write
     steps:
