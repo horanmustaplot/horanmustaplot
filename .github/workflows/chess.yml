@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Last chess game from lichess.org
 on:
   # Schedule updates (each hour)
@@ -5,11 +6,18 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.chess.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_chess: yes
-  plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-  plugin_chess_platform: lichess.org
+jobs:
+  github-metrics:
+    runs-on: nixos-24.05
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.chess.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
+          
