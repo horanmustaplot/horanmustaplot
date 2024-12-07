@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Last chess game from lichess.org
+name: WakaTime
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
