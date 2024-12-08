@@ -24,7 +24,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: horanmustaplot
+          user: aehabdelouadoud
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Casablanca
