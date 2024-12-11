@@ -23,11 +23,12 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           user: aehabdelouadoud
           template: classic
           base: header, activity, community, repositories
-          config_timezone: Africa/Casablanca
+          config_timezone: Asia/Taipei
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -47,6 +48,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_order: isocalendar, base.header, languages, stars
-          
+          plugin_isocalendar_duration: half-year
