@@ -4,4 +4,4 @@
 <a href="https://github.com/aehabdelouadoud">
   <img style="vertical-align:top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aehabdelouadoud&layout=compact&langs_count=8&theme=transparent" />
 </a>
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.achievements.svg" alt="Metrics" width="100%">
