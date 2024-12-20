@@ -58,8 +58,8 @@
 - [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aehabdelouadoud)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
-- [![AtCoder](https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
-- [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud)
+<!-- - [![AtCoder](https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud) -->
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
 
