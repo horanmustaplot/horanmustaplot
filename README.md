@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;sudo+pacman+-Syu;Let's+build+something+that+changes+the+world" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;sudo+pacman+-Syu;Do+the+impossible" alt="Typing Animation" />
 </p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="45%" align="right"/>
