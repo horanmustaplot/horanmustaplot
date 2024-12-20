@@ -6,13 +6,13 @@
 
 ## 📊 Metrics
 
-<p align="right">
+<p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="45%" />
-  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" />
 </p>
 
-<p align="left">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" />
+<p align="center">
+  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" />
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" />
 </p>
 
