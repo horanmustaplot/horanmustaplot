@@ -1,3 +1,5 @@
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+a+developer!;Welcome+to+my+README!)
+
 <img src="/github-metrics.svg" alt="Metrics" width="45%" align="right"/>
 <img src="https://github.com/user-attachments/assets/2a6e8758-7c4e-4dd4-a751-e5160aa8aa07" width=45% height=45% align="left"/>
 <img src="/metrics.plugin.wakatime.svg" alt="WakaTime" width="45%" align="left">
@@ -31,7 +33,5 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?style=flat&logo=starship&logoColor=white)
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+a+developer!;Welcome+to+my+README!)
 
 
