@@ -54,6 +54,8 @@
 </p>
 
 ## You Can Find Me Here
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
+- [![Twitter](https://img.shields.io/badge/Twitter-@aehabdelouadoud-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aehabdelouadoud)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
 - [![AtCoder](https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
