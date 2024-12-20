@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Taskwarrior-333333?style=flat&logo=task&logoColor=white" alt="Taskwarrior" />
 </p>
 
-## You Can Find Me Here
+## 🤝 Let's Connect!"
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
 - [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
