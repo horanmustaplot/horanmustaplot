@@ -110,7 +110,7 @@
   <li>
     <a href="https://stackoverflow.com/users/28723716" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"> 
-      <span style="font-family: 'FontAwesome'; font-size: 12px; margin-left: 5px;">&#xf08e;</span>
+      <span style="font-family: 'FontAwesome'; font-size: auto; margin-left: 5px;">&#xf08e;</span>
     </a>
   </li>
   <li>
