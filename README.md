@@ -1,6 +1,6 @@
-<div align="center">
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+a+developer!;Welcome+to+my+README!)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+a+developer!;Welcome+to+my+README!" alt="Typing Animation" />
+</p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="45%" align="right"/>
 <img src="https://github.com/user-attachments/assets/2a6e8758-7c4e-4dd4-a751-e5160aa8aa07" width=45% height=45% align="left"/>
