@@ -59,3 +59,15 @@
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
 - [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/aehabdelouadoud)
+
+## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="30"> Let's Connect!
+- <a href="https://www.linkedin.com/in/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://x.com/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white" alt="X"></a>
+- <a href="https://dev.to/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+- <a href="https://leetcode.com/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/LeetCode-@aehabdelouadoud-%23f7b93e?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+- <a href="https://atcoder.jp/users/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/AtCoder-@aehabdelouadoud-%2336495e?style=flat&logo=atcoder&logoColor=white" alt="AtCoder"></a>
+- <a href="https://codeforces.com/profile/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+- <a href="https://www.topcoder.com/members/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white" alt="TopCoder"></a>
+- <a href="https://stackoverflow.com/users/28723716" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+- <a href="https://www.youtube.com/c/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+
