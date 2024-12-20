@@ -4,6 +4,8 @@
 <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" width="45%" align="right">
 <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="45%" align="right">
 
+--
+
 ## 🛠️ Skills
 
 ### Languages
