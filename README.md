@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Taskwarrior-333333?style=flat&logo=task&logoColor=white" alt="Taskwarrior" />
 </p>
 
-## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="30"> Let's Connect! Note: In order to open this in external tabs use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)
+## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="30"> Let's Connect! `Note: In order to open this in external tabs use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aehabdelouadoud)
 - [![X](https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white)](https://x.com/aehabdelouadoud)
