@@ -52,3 +52,10 @@
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Taskwarrior-333333?style=flat&logo=task&logoColor=white" alt="Taskwarrior" />
 </p>
+
+## 🚀 My Coding & Writing Adventures!
+- 📝 Check out my articles on [Dev.to](https://dev.to/aehabdelouadoud) 
+- 💻 Tackling problems on **LeetCode**: [LeetCode](https://leetcode.com/aehabdelouadoud)
+- 🧑‍💻 Competing in **AtCoder**: [AtCoder](https://atcoder.jp/users/aehabdelouadoud)
+- 🤖 Solving algorithms on **Codeforces**: [Codeforces](https://codeforces.com/profile/aehabdelouadoud)
+
