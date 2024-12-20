@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+<!--
 ## 🛠️ Skills
 
 ### Languages
@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Taskwarrior-333333?style=flat&logo=task&logoColor=white" alt="Taskwarrior" />
 </p>
+
+-->
 
 ## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="25"> Let's Connect! `Note: In order to open this in external tabs use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)`
 
