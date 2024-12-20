@@ -61,3 +61,25 @@
 - [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/aehabdelouadoud)
 
 
+## <img src="https://github.com/user-attachments/assets/4fe2c8f6-31fe-4f28-9d73-5758490ceb1c" alt="handshake" width="30"> Let's Connect!
+
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/aehabdelouadoud" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> <span style="font-size: 14px; font-weight: bold; vertical-align: middle;">↗</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://x.com/aehabdelouadoud" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/X-@aehabdelouadoud-%2312100E?style=flat&logo=x&logoColor=white" alt="X"> <span style="font-size: 14px; font-weight: bold; vertical-align: middle;">↗</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://dev.to/aehabdelouadoud" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Dev.to-@aehabdelouadoud-%23007A5A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"> <span style="font-size: 14px; font-weight: bold; vertical-align: middle;">↗</span>
+    </a>
+  </li>
+  <!-- Continue for all your other links -->
+</ul>
+
+
