@@ -54,8 +54,9 @@
 </p>
 
 ## 🚀 My Coding & Writing Adventures!
-- 📝 Check out my articles on [Dev.to](https://dev.to/aehabdelouadoud) 
-- 💻 Tackling problems on **LeetCode**: [LeetCode](https://leetcode.com/aehabdelouadoud)
-- 🧑‍💻 Competing in **AtCoder**: [AtCoder](https://atcoder.jp/users/aehabdelouadoud)
-- 🤖 Solving algorithms on **Codeforces**: [Codeforces](https://codeforces.com/profile/aehabdelouadoud)
+- 📝 [![Dev.to](https://img.shields.io/badge/-Dev.to-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+- 💻 [![LeetCode](https://img.shields.io/badge/LeetCode-@yourusername-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+- 🧑‍💻 [![AtCoder](https://img.shields.io/badge/AtCoder-@yourusername-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yourusername)
+- 🤖 [![Codeforces](https://img.shields.io/badge/Codeforces-@yourusername-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+
 
