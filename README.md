@@ -59,7 +59,3 @@
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
 - [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/aehabdelouadoud)
-
----
-
-- <a href="https://www.linkedin.com/in/aehabdelouadoud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@aehabdelouadoud-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
