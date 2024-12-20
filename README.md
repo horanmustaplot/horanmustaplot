@@ -54,9 +54,12 @@
 </p>
 
 ## 🚀 My Coding & Writing Adventures!
-- 📝 [![Dev.to](https://img.shields.io/badge/-Dev.to-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourusername)
-- 💻 [![LeetCode](https://img.shields.io/badge/LeetCode-@yourusername-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-- 🧑‍💻 [![AtCoder](https://img.shields.io/badge/AtCoder-@yourusername-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yourusername)
-- 🤖 [![Codeforces](https://img.shields.io/badge/Codeforces-@yourusername-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+- 📝 [![Dev.to](https://img.shields.io/badge/-Dev.to-%23007A5A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/aehabdelouadoud)
+- 💻 [![LeetCode](https://img.shields.io/badge/LeetCode-@yourusername-%23f7b93e?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/aehabdelouadoud)
+- 🧑‍💻 [![AtCoder](https://img.shields.io/badge/AtCoder-@yourusername-%2336495e?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/aehabdelouadoud)
+- 🤖 [![Codeforces](https://img.shields.io/badge/Codeforces-@yourusername-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud)
+- 🏆 [![TopCoder](https://img.shields.io/badge/TopCoder-@yourusername-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud)
+- 💬 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@yourusername-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
+- ▶️ [![YouTube](https://img.shields.io/badge/YouTube-@yourusername-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/aehabdelouadoud)
 
 
