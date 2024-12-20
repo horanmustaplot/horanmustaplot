@@ -58,4 +58,4 @@
 - [![Codeforces](https://img.shields.io/badge/Codeforces-@aehabdelouadoud-%23007A5A?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aehabdelouadoud)
 - [![TopCoder](https://img.shields.io/badge/TopCoder-@aehabdelouadoud-%230074C1?style=flat&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/aehabdelouadoud)
 - [![Stack Overflow](https://img.shields.io/badge/StackOverflow-@aehabdelouadoud-%23f48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28723716)
-- [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/c/aehabdelouadoud](https://www.youtube.com/@aehabdelouadoud)
+- [![YouTube](https://img.shields.io/badge/YouTube-@aehabdelouadoud-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aehabdelouadoud)
